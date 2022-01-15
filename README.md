@@ -7,4 +7,6 @@ Each file in the `krackhardt_data` folder is named `krack_X.csv` where X is an i
 
 An aggregation of this data [can be found online here](http://vlado.fmf.uni-lj.si/pub/networks/data/WaFa/default.htm). The data set provided at this website contains 3 layers, where the first layer is an aggregate of the 21 data matrices where row i was taken from the ith adjacency matrix. Thus the first layer is the "ground truth" of who each person goes to for help or advice at work. Layer two is the answer to the question "Who is your friend" for each person in management. Layer three is the answer to the question "Who do you report to?"
 
+Special thanks to my transcription assistant, Aristotle Johns, who patiently read aloud all 9,261 entries of the tensor so I could double check my work.
+
 [Krackhardt, David. "Cognitive social structures." Social networks 9.2 (1987): 109-134.](https://www.andrew.cmu.edu/user/krack/documents/pubs/1987/1987%20Cognitive%20Social%20Structures.pdf) 
